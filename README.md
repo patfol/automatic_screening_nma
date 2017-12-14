@@ -7,3 +7,7 @@ Minor changes :
 * different evaluation metrics: sensitivity and specificity
 * different batch function : balanced batch (rare class oversampling), with sampling with replacement
 * text is already vectorized as followed : each citations is represented as the average of its word embeddings
+* weighted loss function
+
+Major change :
+* no more CNN only a simple linear model
